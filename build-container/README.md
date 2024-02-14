@@ -57,5 +57,5 @@ requires elevated priviledge, the se-linux labeling is disable to the container_
 #### TODO
 
 - [ ] Makefile for building the container
-- [ ] Automation to build container via CI on every release
+- [x] Automation to build container via CI on every release
 - [ ] Add quadlet support
